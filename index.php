@@ -1,9 +1,7 @@
 <?php
 
-	echo "Olá Mundo0!";
+	echo "Olá Mundo!1";
 
-	echo "testetado";
-
-	echo "Salve";
+	echo "testei";
 
 ?>
